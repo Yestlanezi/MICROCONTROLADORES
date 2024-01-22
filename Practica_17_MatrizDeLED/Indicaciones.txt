@@ -1,0 +1,23 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- Observe el vídeo de la práctica de Matriz, se anexa link.
+https://www.youtube.com/watch?v=9jr5PDJ-7Yc&ab_channel=FernandoAguilar
+
+2.- Descarga el Formato de las Prácticas 17 (se anexa link)
+
+3.- Descarga el Software "Proteus" y CodeVision .
+
+4.- Recordar que el trabajo es de forma individual. El formato de la práctica debe contener lo siguiente:
+
+a) Portada con todos tus datos, no olviden fecha de entrega.
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+d) Pantallazo del circuito en Proteus.
+e) Conclusiones Individuales.
+f) Referencia Bibliográfica.
+
+NOTA: NO SE LES OLVIDE QUE PARA CALIFICARLO SE REVISARÁ EL FUNCIONAMIENTO DEL CIRCUITO EN EL LABORATORIO.
+
+ACTIVIDADES A DESARROLLAR:
+1.- VISUALIZACIÓN DE LOS NÚMEROS DEL 0 AL 9
+2.- MARQUESINA CON SU NOMBRE Y APELLIDO

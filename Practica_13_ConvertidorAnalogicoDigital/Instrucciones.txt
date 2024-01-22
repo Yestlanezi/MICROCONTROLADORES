@@ -1,0 +1,24 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- En ésta práctica la explicación se da en clase.
+
+
+A) El  ATmega8535 cuentan con 8 canales de entrada  para el ADC  ubicadas en el Puerto A.
+B) Hay que alimentar el periférico del ADC en otras terminales asignadas para ello.
+C) Se cuentan con 8 y 10 bits de conversión.
+D) El voltaje de referencia (Vref), puede configurarse de tres maneras diferentes.
+E) El voltaje de entrada (Vin) no puede ser mayor al Voltaje de referencia (Vref) porque existe la posibilidad de dañar el microcontrolador.
+
+
+2.- Descarga el Formato de las Prácticas 13 (se anexa link)
+
+3.- Descarga el Software "Proteus" y CodeVision para poder simular y compilar respectivamente las actividades de la Práctica 08 (el link del simulador o la descarga del mismo está en la Pagina de Material Adicional, se anexa link).
+
+4.- Recordar que el trabajo es equipo. El formato de la práctica debe contener lo siguiente:
+
+a) Portada con todos tus datos, no olviden fecha de entrega.
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+d) Pantallazo del circuito en Proteus.
+e) Conclusiones Individuales.
+f) Referencia Bibliográfica.

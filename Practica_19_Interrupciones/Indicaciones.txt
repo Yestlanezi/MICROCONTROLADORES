@@ -1,0 +1,19 @@
+1.- En ésta práctica no hay video, pero la explicación se da en clase y en unos videos anexos.
+
+
+2.- Descarga el Formato de las Prácticas 19 (se anexa link)
+
+
+3.- Descarga el Software "Proteus" y CodeVision para poder simular y compilar respectivamente las actividades de la Práctica 08 (el link del simulador o la descarga del mismo está en la Pagina de Material Adicional, se anexa link).
+
+
+4.- Recordar que el trabajo es en equipo. El formato de la práctica debe contener lo siguiente:
+
+
+a) Portada con todos los datos, no olviden fecha de entrega.
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+d) Pantallazo del circuito en Proteus.
+e) Imagen del circuito en el proto funcionando.
+f) Conclusiones Individuales.
+g) Referencia Bibliográfica.

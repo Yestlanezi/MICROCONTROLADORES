@@ -1,0 +1,23 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- Observa el video de la Práctica Nº 1 (se anexa link)
+https://www.youtube.com/watch?v=nPlnFMiR1o4&ab_channel=FernandoAguilar
+
+2.- Se anexa el Formato de la Práctica 01 Titulada "Puertos de E/S"
+
+3.- Descarga el "Software Proteus" para poder simular las actividades de la Práctica 01.
+
+4.- Recordar que el formato de práctica debe estar en PDF y debe contener lo siguiente:
+
+a) Portada con todos tus datos (NOMBRE DE LA PRÁCTICA, NOMBRE DEL ALUMNO, GRUPO Y FECHA DE ENTREGA).
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, y la información puede ser en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C, proporcionados por el IDE de CodeVision.
+d) Circuito eléctrico en Proteus
+e) Foto del circuito en el proto armado
+f) Conclusiones individuales.
+g) Referencia Bibliográfica.
+
+NOTA: NO SE LES OLVIDE QUE LA REVISIÓN DE LOS CIRCUITOS ES DE  MANERA PRESENCIAL EN EL LABORATORIO.
+
+
+El formato de práctica equivale al 30% (EL FORMATO SE SUBE A CLASSROOM EN FORMATO PDF Y NO SE ACEPTA EN DRIVE NI WORD). La revisión del circuito funcionando correctamente  equivale el 70% ( NO SE LES OLVIDE INCLUIR SU CÓDIGO GENERADO POR CodeVision,  NI LA FOTO DEL CIRCUITO ARMADO EN PROTEUS EN EL FORMATO DE LA PRÁCTICA) 

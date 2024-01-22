@@ -1,0 +1,27 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- Observa el video de la Práctica Nº 3 (se anexa link)
+
+2.- Descarga el Formato de la Práctica 03 Titulada "Convertidor BCD a 7 Segmentos" (se anexa link)
+https://www.youtube.com/watch?v=mtWC-KM_N2g&ab_channel=FernandoAguilar
+
+3.- Descarga el Software "Proteus" y CodeVision para poder simular y compilar respectivamente las actividades de la Práctica 03.
+
+4.- Recordar que el trabajo es en Equipo. El formato de práctica debe contener lo siguiente:
+
+a) Portada con todos tus datos, no olvidar fecha de entrega.
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+d) Pantallazo del circuito armado en Proteus.
+e) Foto del proto armado.
+f) Conclusiones Individuales.
+g) Referencia Bibliográfica.
+
+NOTA: NO SE LES OLVIDE QUE LA REVISIÓN DEL CORRECTO FUNCIONAMIENTO DE SUS CIRCUITOS ES EN EL LABORATORIO.
+
+RECUERDEN QUE HAY DOS ACTIVIDADES
+
+1.- CONTADOR BCD A 7 SEGMENTOS VISUALIZANDO DEL 0 AL 9, CUANDO SELECCIONE DEL 10 AL 15 MOSTRAR LA LETRA "E" DE ERROR. USANDO LOS DISPLAY ÁNODO Y CÁTODO COMÚN.
+
+
+2.- CONTADOR HEXADECIMAL DE 0 A F (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F), UTILIZANDO LOS DISPLAYS ÁNODO Y CÁTODO COMÚN.

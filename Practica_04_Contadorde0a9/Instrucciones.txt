@@ -1,0 +1,17 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- Observa el video de la Práctica Nº 4 (se anexa link)
+https://www.youtube.com/watch?v=xNhjvh_YW7s&ab_channel=FernandoAguilar
+
+2.- Descarga el Formato de la Práctica 04 Titulada "Contador de 0 a 9" (se anexa link)
+
+3.- Descarga el Software "Proteus" y CodeVision para poder simular y compilar respectivamente las actividades de la Práctica 04 .
+
+4.- Recordar que el trabajo es en Equipo. El formato de práctica debe contener lo siguiente:
+
+a) Portada con todos tus datos, no olvidar fecha de entrega.
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+e) Pantallazo del circuito eléctrico elaborado en la aplicación de su preferencia.
+f) Conclusiones Individuales.
+g) Referencia Bibliográfica.

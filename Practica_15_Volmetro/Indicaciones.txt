@@ -1,0 +1,22 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- Observe el vídeo de la práctica de Vólmetro, se anexa link.
+https://www.youtube.com/watch?v=2-rlcp7bmXA&ab_channel=FernandoAguilar
+
+2.- Descarga el Formato de las Prácticas 15 (se anexa link)
+
+3.- Descarga el Software "Proteus" y CodeVision para poder simular y compilar respectivamente las actividades   (el link del simulador o la descarga del mismo está en la Pagina de Material Adicional, se anexa link).
+
+4.- Recordar que el trabajo es de forma individual. El formato de la práctica debe contener lo siguiente:
+
+a) Portada con todos tus datos, no olviden fecha de entrega.
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+d) Pantallazo del circuito en Proteus.
+e) Conclusiones Individuales.
+f) Referencia Bibliográfica.
+
+NOTA: NO SE LES OLVIDE QUE PARA CALIFICARLO SE REVISARÁ EL FUNCIONAMIENTO DEL CIRCUITO EN EL LABORATORIO. RECUERDEN QUE HAY DOS ACTIVIDADES.:
+
+1.- EL VÓLMETRO DE 0 A 5 VOLTS Y 
+2.- EL VÓLMETRO DE 0 A 30 VOLTS.

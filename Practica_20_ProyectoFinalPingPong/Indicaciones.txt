@@ -1,0 +1,14 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- Para el proyecto no hay video, solo el formato de la práctica.
+
+2.- Si desea puede ver el video de la Práctica de Matriz de 7x5 para complementar la información.
+
+3.- Recordar que el trabajo es de forma individual. El formato de la práctica debe contener lo siguiente:
+
+a) Portada con todos tus datos, no olvidar fecha.
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+d) Imagen del circuito funcionando.
+e) Conclusiones Individuales.
+f) Referencia Bibliográfica.

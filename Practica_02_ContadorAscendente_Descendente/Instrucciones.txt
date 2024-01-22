@@ -1,0 +1,23 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- Observa el video de la Práctica Nº 2 
+https://www.youtube.com/watch?v=wpXVv6_KNkQ&ab_channel=FernandoAguilar
+
+2.- Descarga el Formato de la Práctica 02 Titulada "Contador Ascendente y Descendente" (se anexa archivo)
+
+3.- Descarga el Software "Proteus" y CodeVision para poder simular y compilar respectivamente las actividades de la Práctica 02.
+
+4.- Recordar que el trabajo es en equipo.
+
+El formato de práctica debe contener lo siguiente:
+
+a) Portada con todos tus datos y no olvidar fecha de entrega.
+b) Introducción teórica mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+e) Conclusiones Individuales.
+f) Referencia Bibliográfica.
+
+
+NOTA: RECUERDEN QUE HAY QUE REALIZAR UN CONTADOR BINARIO ASCENDENTE Y DESCENDENTE.
+
+NOTA: NO SE LES OLVIDE QUE LA REVISIÓN DEL CORRECTO FUNCIONAMIENTO DE SUS CIRCUITOS ES EN EL LABORATORIO.

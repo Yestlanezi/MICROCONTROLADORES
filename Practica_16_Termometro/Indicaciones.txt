@@ -1,0 +1,18 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- Observe el vídeo de la práctica de Termómetro, se anexa link.
+https://www.youtube.com/watch?v=V_UfFNtFIBI&ab_channel=FernandoAguilar
+
+2.- Descarga el Formato de las Prácticas 16 (se anexa link)
+
+3.- Descarga el Software "Proteus" y CodeVision.
+
+4.- Recordar que el trabajo es de forma individual. El formato de la práctica debe contener lo siguiente:
+
+a) Portada con todos tus datos, no olviden fecha de entrega.
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+d) Pantallazo del circuito en Proteus.
+e) Conclusiones Individuales.
+
+f) Referencia Bibliográfica.

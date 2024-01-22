@@ -1,0 +1,17 @@
+INDICACIONES PARA LA ELABORACIÓN DE LA PRÁCTICA
+
+1.- Observa el video de la Práctica Nº 08 (se anexa link)
+https://www.youtube.com/watch?v=lOO8C88iLdA&ab_channel=FernandoAguilar
+
+2.- Descarga el Formato de las Prácticas 08 (se anexa link)
+
+3.- Descarga el Software "Proteus" y CodeVision para poder simular y compilar respectivamente las actividades de la Práctica 08 (el link del simulador o la descarga del mismo está en la Pagina de Material Adicional, se anexa link).
+
+4.- Recordar que el trabajo es en forma individual. El formato de práctica debe contener lo siguiente:
+
+a) Portada con todos tus datos. NO olvidar fecha de entrega.
+b) Introducción teórica de mínimo una cuartilla, máximo tres cuartillas, en digital.
+c) Código de la configuración de los periféricos utilizados y código del programa principal en C.
+d) Pantallazo del circuito armado en Proteus.
+e) Conclusiones Individuales.
+f) Referencia Bibliográfica.
